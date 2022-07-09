@@ -1,0 +1,32 @@
+.main {
+  display: inline-block;
+  width: 740px;
+  margin-top: 8px;
+  margin-left: 8px;
+  font-size: 12px;
+  vertical-align: top;
+}
+
+.input {
+  display: inline-block;
+  width: 740px;
+  margin-top: 8px;
+  margin-left: 8px;
+  font-size: 12px;
+  vertical-align: top;
+}
+
+.all_list {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
+.one_list {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}

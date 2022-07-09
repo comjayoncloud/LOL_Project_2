@@ -1,0 +1,41 @@
+.champ_info {
+  /* background-color: skyblue; */
+  display: table-cell;
+  height: 96px;
+  vertical-align: middle;
+}
+
+.spell_img {
+  display: block;
+  width: 22px;
+  height: 22px;
+  margin-top: 2px;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.champ_info > .icon {
+  margin-top: 15px;
+  display: inline-block;
+  width: 46px;
+  height: 46px;
+  vertical-align: middle;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.spell {
+  display: block;
+  width: 22px;
+  height: 22px;
+  margin-top: 2px;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.spells {
+  margin-top: 15px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 4px;
+}

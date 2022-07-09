@@ -1,0 +1,22 @@
+.game_stat {
+  /* background-color: skyblue; */
+  width: 50px;
+
+  font-size: 11px;
+  text-align: center;
+  display: table-cell;
+  height: 96px;
+  vertical-align: middle;
+  position: relative;
+}
+
+.kda {
+  color: #090e0e;
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  top: 40%;
+  left: 50%;
+  font-size: 15px;
+  white-space: nowrap;
+}

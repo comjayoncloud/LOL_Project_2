@@ -1,0 +1,24 @@
+# 리그오브레전드 본인의 아이디를 가져와서 화면에 출력 하는 프로젝트!
+
+@프론트엔드는 Nestjs
+@데이터는 API를 통해 가져오기
+
+
+데이터 API 참고
+https://blog.naver.com/skswod95/222018045778
+https://shinminyong.tistory.com/11
+
+
+#1차 프로젝트
+
+1. 프로젝트 기간
+=> 2022.05.05~2022.05.12 (1차목표)
+2. 프로젝트 내용
+=> 한 사용자의 게임 데이터(칼바람)를 API를 통해 가져와 보여주는 웹 만들기.
+3. 프로젝트의 아키텍처
+=>개발 툴 : Visual Stuido
+=> 프론트엔드 : React
+=> 백엔드 : express.js (node.js)
+=> 매니지먼트툴 : Slack / Notion
+=> 배포 : Git / Aws
+
